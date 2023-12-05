@@ -1,0 +1,19 @@
+{
+  "name": "tensorflow_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow-models/coco-ssd": "^2.2.3",
+    "@tensorflow/tfjs-node": "^4.14.0",
+    "@tensorflow/tfjs-node-gpu": "^4.14.0",
+    "axios": "^1.6.2",
+    "canvas": "^2.11.2"
+  }
+}
